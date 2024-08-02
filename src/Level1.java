@@ -6,4 +6,7 @@ public class Level1 {
     public static void add(int num1, int num2){
 
     }
+    public static void hello(){
+        System.out.println("Hello");
+    }
 }
